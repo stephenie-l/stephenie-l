@@ -30,7 +30,3 @@ Most of these are half-scoped in a some notion page. Happy to talk about any of 
 🌇 Days: AI tooling (and swe+analyst work) at Steelcase
 
 🌃 Nights: building at [TreeBird Labs](https://treebirdlabs.com) or making things out of clay at [Tree Bird Studio](https://www.treebirdstudio.com/)
-
-<br>
-
-[stephenieliew.com](https://stephenieliew.com)
