@@ -2,7 +2,7 @@
 
 <br>
 
-I like problems with no single correct answer, and making things that didn't exist before. Lately that mostly looks like small AI tools, shipped far enough for real people use them.
+I like problems with no single correct answer, and making things that didn't exist before. Lately that mostly looks like small AI tools, shipped far enough for real people to use them.
 
 - ⚾ **Ballpark** — click any number
   on a page and find out whether it's small, typical, or large in its context. Available (with free options) on the [Chrome Web Store](https://chromewebstore.google.com/detail/enomdpjeipaeeljjicmmbfpgchcpijjm)
@@ -21,9 +21,9 @@ I like problems with no single correct answer, and making things that didn't exi
 stories through their artistic lens. Sorolla's house in Madrid, Monet's garden,
 the Gardner Museum (and its heist)
 - **Flowa** — compose a doodly flower arrangement on your phone via drag-and-snap, leave with a
-  ~$14 Trader Joe's shopping list to make it real life
+  ~$14 Trader Joe's shopping list to make it real
 
-Most of these are half-scoped in a some notion page. Happy to talk about any of them.
+Most of these are half-scoped in some notion page. Happy to talk about any of them.
 
 <br>
 
